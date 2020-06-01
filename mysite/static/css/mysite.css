@@ -1,3 +1,9 @@
 body {
     background-color: #ccc;
 }
+
+
+.jumbotron{
+    background-image: url('http://placehold.jp/006699/cccc00/150x100.png');
+    background-size: cover;
+    height: 100%;}
